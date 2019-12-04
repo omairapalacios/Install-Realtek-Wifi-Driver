@@ -6,9 +6,11 @@ and "updates" them to get information on the newest versions.
 sudo apt-get update
 
 The next command is used for install numerous packages and tools for compiling/building software.
+
 sudo apt-get install build-essential
 
 Install git to get the drivers repository
+
 sudo apt install git
 
 Clone the repository where is the drivers

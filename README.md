@@ -30,11 +30,11 @@
   `sudo make install`
 
 - Add the modules:
-    -sudo modprobe -r <<YOUR WIRELESS DRIVER CODE>> for example:
+    -sudo modprobe -r <YOUR WIRELESS DRIVER CODE> for example:
   
     `sudo modprobe -r rtl8723de`
 
-    -sudo modprobe <<YOUR WIRELESS DRIVER CODE>> for example:
+    -sudo modprobe <YOUR WIRELESS DRIVER CODE> for example:
 
     `sudo modprobe rtl8723de`
 
